@@ -1,0 +1,7 @@
+{
+  "name": "seguroProyect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
